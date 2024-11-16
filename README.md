@@ -20,3 +20,7 @@ With this license you are free to adapt (i.e. modify, rework or update) and shar
 Full text: https://www.bohemia.net/community/licenses/arma-and-dayz-public-license-share-alike-adpl-sa
 
 © 2019 BOHEMIA INTERACTIVE a.s. DAYZ®, ENFUSION®, and BOHEMIA INTERACTIVE® are registered trademarks of BOHEMIA INTERACTIVE a.s. All rights reserved.
+
+# Sakhal Server Definitions
+
+Branch for Sakhal specific configurations and definitions. Experimental updates and Development work will be branched out from here. All alternate Map definitions have been removed to help keep the server config files lean
