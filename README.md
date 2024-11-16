@@ -20,3 +20,10 @@ With this license you are free to adapt (i.e. modify, rework or update) and shar
 Full text: https://www.bohemia.net/community/licenses/arma-and-dayz-public-license-share-alike-adpl-sa
 
 © 2019 BOHEMIA INTERACTIVE a.s. DAYZ®, ENFUSION®, and BOHEMIA INTERACTIVE® are registered trademarks of BOHEMIA INTERACTIVE a.s. All rights reserved.
+
+
+# Livonia Branch
+
+This branch has been built out and configured explicitly to contain only the the *.enoch files for managing and customization of Livonia economy and configurations. These definitions are going to be configured as the baseline source definitions for Livonia Servers and will operate as the Production Branch for  any servers hosted using the Livonia files. Experimental Changes and development will operate on sub branches so as to ensure that the primary Production definitions are able to operate cleanly and without as much issue. This will also hopefully work to keep the core Server Directories lean via elimination of alternate configuration definitions which are otherwise unneeded.
+
+Current intent is to ensure that baseline Livonia definitions are able to have some increased Infected Spawns as well as some customized infected events which will ideally help to keep interactions upon the server fresh and unique without over reliance on full Mod files as the reliance on mods serves primarily as a crutch in my opinion.
