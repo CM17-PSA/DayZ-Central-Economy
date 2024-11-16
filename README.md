@@ -20,3 +20,7 @@ With this license you are free to adapt (i.e. modify, rework or update) and shar
 Full text: https://www.bohemia.net/community/licenses/arma-and-dayz-public-license-share-alike-adpl-sa
 
 © 2019 BOHEMIA INTERACTIVE a.s. DAYZ®, ENFUSION®, and BOHEMIA INTERACTIVE® are registered trademarks of BOHEMIA INTERACTIVE a.s. All rights reserved.
+
+# Chernarus Server Configurations
+
+Baseline Server Definitions for Chernarus Based servers. Experimental patch versions will operate within their own sub branches to ensuere that production loads are able to operate properly and as expected within the primary branch. Alternate Map files have been deleted to limit configuration drift and prevent issues with configuration file drift for servers that are intended to be running Chernarus only.
